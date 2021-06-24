@@ -27,7 +27,6 @@ namespace UserManagementReact
 {
 	public class Startup
 	{
-		private string _dbKey = null;
 		public Startup(IConfiguration configuration)
 		{
 			Configuration = configuration;
